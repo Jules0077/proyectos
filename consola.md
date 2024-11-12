@@ -1,4 +1,4 @@
-proyecto creados por simple practica personal
+//proyecto creados por simple practica personal
 
 
 using proyecto_consola;
